@@ -1,4 +1,4 @@
-package by.vadarod.lessons.practice2;
+package by.vadarod.lessons.Arrays;
 
 import java.util.Arrays;
 
