@@ -10,7 +10,7 @@ public class IndustrialBuilding extends Building {
     }
 
     public String info() {
-        String info = "отрасль" + industry;
+        return  "отрасль" + industry;
     }
 
     public String getIndustry() {
