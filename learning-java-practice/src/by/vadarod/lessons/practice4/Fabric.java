@@ -12,6 +12,7 @@ public class Fabric extends IndustrialBuilding {
         this.products = products;
     }
     public String Info(){
-        String info = "количесво рабочих" + workers + " производимая продукция" + products + "отрасль" + getIndustry ;
+        return "";
+//        String info = "количесво рабочих" + workers + " производимая продукция" + products + "отрасль" + getIndustry ;
     }
 }
